@@ -3,7 +3,7 @@
     "name": "Défaut",
     "author": "Papillon",
     "path": "default",
-    "icon": "icon-light.png",
-    "darkIcon": "icon-dark.png"
+    "icon": "icon.png",
+    "darkIcon": "icon.png"
   }
 ]
