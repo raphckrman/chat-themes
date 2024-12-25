@@ -1,6 +1,4 @@
-import {Theme} from "@/utils/chat/themes/Themes.types";
-
-export const DefaultTheme: Theme = {
+{
   meta: {
     name: "Default",
     author: "PapillonApp",
@@ -49,4 +47,4 @@ export const DefaultTheme: Theme = {
   exclusiveMeta: {
     isExclusive: false
   }
-};
+}
