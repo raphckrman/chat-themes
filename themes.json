@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Défaut",
+    "author": "Papillon",
+    "path": "default",
+    "icon": "icon-light.png",
+    "darkIcon": "icon-dark.png"
+  }
+]
