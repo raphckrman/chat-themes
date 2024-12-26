@@ -5,12 +5,5 @@
     "path": "default",
     "icon": "icon.png",
     "darkIcon": "icon.png"
-  },
-  {
-    "name": "Frutiger",
-    "author": "Papillon",
-    "path": "frutiger",
-    "icon": "icon.png",
-    "darkIcon": "icon.png"
   }
 ]
